@@ -1,2 +1,2 @@
-# bash_scripts
+# bash scripts
 Bash scripts for personal use
